@@ -1,0 +1,12 @@
+name: queueless_mobile
+description: QueueLess mobile app
+publish_to: "none"
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^1.0.0
+  mobile_scanner: ^2.0.0
+  http: ^0.13.0

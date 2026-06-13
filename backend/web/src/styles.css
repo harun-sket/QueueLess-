@@ -1,0 +1,3 @@
+body { margin: 0; font-family: Arial, sans-serif; }
+button { padding: 8px 12px; border-radius: 6px; border: none; background: #0d6efd; color: white; cursor: pointer; }
+table th, table td { padding: 8px; text-align: left; }
